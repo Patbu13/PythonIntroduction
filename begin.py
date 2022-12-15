@@ -33,5 +33,12 @@ while True:
     elif(modo % 6 == 0):
         print("halfly dozenable i guess")
     else:
-        print("mid ass number,", modo // 12, "when divided by 12, remainder of", modo % 12 + ","," goodbye")
+        print("mid ass number,", modo // 12, "when divided by 12, remainder of", modo % 12, ", goodbye")
         break
+
+# funciones
+def func1():
+    print('this')
+    print('is')
+    print('it')
+func1()
